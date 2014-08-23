@@ -1,4 +1,4 @@
-Template-Login
+Template para autenticação em PHP
 ==============
 
 Template para autenticação de usuário em PHP/MySql/Twitter Bootstrap.<br>
