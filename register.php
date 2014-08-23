@@ -82,6 +82,7 @@
 							    		<div class="form-group">
 							    			<input class="form-control" id="email" placeholder="Email" name="email" type="text">
 							    		</div>
+							    		<label>Já é cadastrado? <a href="index.php">Faça login</a></label>
 							    		<input class="btn btn-lg btn-info btn-block" type="submit" value="Cadastrar">
 							    	</fieldset>
 						      	</form>
