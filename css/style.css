@@ -1,0 +1,23 @@
+body{
+	padding-top: 200px;
+}
+
+p{
+	font-size: 200%;
+}
+a:hover{
+	text-decoration: none;
+}
+a>p{
+	border: 2px solid #367daf;
+	margin-left: 220px;
+	margin-right: 220px;
+	color: #367daf;
+}
+a>p:hover{
+	border: 2px solid #367daf;
+	background-color: #367daf;
+	color: #fff;
+	margin-left: 220px;
+	margin-right: 220px;
+}
